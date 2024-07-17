@@ -1,0 +1,25 @@
+pyhton data types
+  1.numbers
+     *int
+     *float
+     *complex
+  2.sequence
+     *string
+     *list[] "ordered and changeable, allow duplicates"
+     *tuple() "ordered and unchangeable, allow duplicates"
+  3.boolean
+  4.set{} "unordered, duplicates are not allowed and add/remove"
+  5.dictionary
+list[]
+ *index
+ *append
+ *count
+ *extent and more to know use dir function
+set{}
+ *add
+ *clear 
+ *copy
+tuple()
+ *count
+ *index
+
